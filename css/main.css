@@ -1,0 +1,31 @@
+.fit-col-img {
+  width: 100%;
+  object-fit: cover;
+}
+.home-thumnail-menu {
+  text-align: center;
+  color: white;
+  background-color: #294552;
+}
+.home-thumnail-menu-icon {
+  width: 100%;
+  max-width: 150px;
+}
+.home-thumnail-menu-icon-block {
+  padding: 10px;
+}
+body {
+  background-color: #1A2930;
+}
+.home-thumnail-link:hover {
+  color: white;
+  text-decoration: none;
+}
+.home-thumnail-link:link {
+  color: white;
+  text-decoration: none;
+}
+.home-thumnail-link:visited {
+  color: white;
+  text-decoration: none;
+}
