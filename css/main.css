@@ -12,9 +12,7 @@
   width: 100%;
   max-width: 150px;
 }
-.home-thumnail-menu-icon-block {
-  padding: 10px;
-}
+
 body {
   background-color: #1A2930;
 }
@@ -29,4 +27,12 @@ body {
 .home-thumnail-link:visited {
   color: white;
   text-decoration: none;
+}
+
+.btn-link-nounderline .btn-link-nounderline:hover .btn-link-nounderline:link .btn-link-nounderline:visited .btn-link:active{
+  text-decoration: none;
+}
+
+.topic-header {
+  color: rgb(70, 80, 218);
 }
