@@ -12,6 +12,9 @@
   width: 100%;
   max-width: 150px;
 }
+.home-thumnail-menu-icon-block{
+  padding: 10px;
+}
 
 body {
   background-color: #1A2930;
