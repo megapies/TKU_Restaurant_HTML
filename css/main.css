@@ -39,3 +39,7 @@ body {
 .topic-header {
   color: rgb(70, 80, 218);
 }
+
+td {
+  padding: 3px;
+}
