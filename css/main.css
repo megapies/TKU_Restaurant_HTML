@@ -43,3 +43,16 @@ body {
 td {
   padding: 3px;
 }
+
+.td-bl.td-bl {
+  border-left: 1px solid white;
+}
+.td-br.td-br {
+  border-right: 1px solid white;
+}
+.td-bt.td-bt {
+  border-top: 1px solid white;
+}
+.td-bb.td-bb {
+  border-bottom: 1px solid white;
+}
